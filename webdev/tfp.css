@@ -1,0 +1,85 @@
+/* social media icons*/
+
+
+
+
+*/
+
+body{
+    margin: 0;
+}
+
+.tags{
+    font-size:2vw; 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: red;
+}
+
+.tags2{
+    font-size:1.5vw; 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color:rgb(20, 10, 10);
+}
+
+
+
+/*.tag{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(20, 10, 10);
+    font-weight: 700;
+    font-size: 10px;
+
+}*/
+
+.container {
+    position: relative;
+    margin: 10px auto; /* Center it */
+  }
+  
+  .container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; 
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 92%; /* Full width */
+
+  }
+
+  .tag3{
+      font-weight: 10px;;
+
+  }
+
+  /*.btn-fix{
+    font-size: 3vw;
+  }*/
+  .container h4{
+      font-size: 1vw;
+  }
+
+  #aqi{
+      list-style: none;
+      font: inherit;
+  }
+
+
+
+
+  @keyframes blink { 0%{ background-color:white; } 100%{ background-color:rgb(153, 164, 211); } }
+
+
+
+  body {
+	background-color: #3498db;
+	color: #ecf0f1;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
