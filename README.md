@@ -11,4 +11,4 @@ Most of the websites operatiinal today lack in terms of some aspects. Such aspec
 One such aspect is readability. This is the most sought factor in a news website. More the readability of the content is, more is the audience engagement.
 
 *Name
-Since press is considered the fourth pillar of a democracy, the website draws its name from the same concept.
+Since- press is considered the fourth pillar of a democracy, the website draws its name from the same concept.
